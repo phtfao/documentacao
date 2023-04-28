@@ -1,7 +1,7 @@
 |**REGRAS DE NEGÓCIO IMPLEMENTADAS NO SISTEMA**|
 |-------------------------------------------------------------------------------------|
 
-## Minha seção {#my-section}
+#my-section
 
 |**RN001**| 
 |-------------------------------------------------------------------------------------|
@@ -984,7 +984,7 @@ O campo status deverá exibir as opções. **[Histórias relacionadas  #106]**
 - recusado
 - Todos
 
-[Texto do link](#my-section)
+[TOPO](#my-section)
 
 | **RN0105** |
 |-----------|
